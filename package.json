@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.20"
+  },
+  "name": "api-com-autenticacao-jsonwebtoken",
+  "homepage": "https://www.jacksondev.com.br/",
+  "description": "Api com Autenticação JsonWebToken",
+  "version": "1.0.0",
+  "main": "api.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon api"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacksonrp1/Api-com-Autenticacao-JsonWebToken.git"
+  },
+  "keywords": [],
+  "author": "Jackson",
+  "url":"https://www.jacksondev.com.br/",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacksonrp1/Api-com-Autenticacao-JsonWebToken/issues"
+  }
+}
