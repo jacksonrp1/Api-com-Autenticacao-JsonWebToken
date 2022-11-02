@@ -60,17 +60,24 @@ Servidor Online na porta 8090
 ```
 
 <p>Você recebera Status 200</p>
-<img src="https://jacksondev.com.br/gitimg/Acessoliberado.jpg" alt="" />
+
+![Acessoliberado](https://user-images.githubusercontent.com/83042566/199594501-ed0fb8b0-3399-440d-aee6-1f83ae49c24e.jpg)
+
 <p>Você recebera Status 401 se o login ou senha estiver diferente</p>
-<img src="https://jacksondev.com.br/gitimg/Acessonegado.jpg" alt="" />
+
+![Acessonegado](https://user-images.githubusercontent.com/83042566/199594575-fff9a6fb-ca39-45e1-b852-0245791e7739.jpg)
 
 <p>Após gerar o token, selecione a requisição do tipo GET, cole seu URL + "/"</p>
+<p>Adicione no header "x-access-token"</p>
 
 <p>Você recebera Status 200 se o token estiver válido</p>
-<img src="https://jacksondev.com.br/gitimg/Tokenvalido.jpg" alt="" />
+
+![Tokeninvalido](https://user-images.githubusercontent.com/83042566/199595110-77601180-8096-4e16-a41b-ea3088c3fd0b.jpg)
+
 
 <p>Você recebera Status 401 se o token estiver vencido ou se estiver com algum caractere diferente</p>
-<img src="https://jacksondev.com.br/gitimg/Tokeninvalido.jpg" alt="" />
+
+![Tokeninvalido](https://user-images.githubusercontent.com/83042566/199594705-9b06fb82-6242-4470-8967-540cf09375ce.jpg)
 
 ---
 
