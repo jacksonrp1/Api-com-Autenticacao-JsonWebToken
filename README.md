@@ -72,8 +72,7 @@ Servidor Online na porta 8090
 
 <p>Você recebera Status 200 se o token estiver válido</p>
 
-![Tokeninvalido](https://user-images.githubusercontent.com/83042566/199595110-77601180-8096-4e16-a41b-ea3088c3fd0b.jpg)
-
+![Tokenvalido](https://user-images.githubusercontent.com/83042566/199601181-01a3487b-1fac-45c4-827f-01a4aaef95ca.jpg)
 
 <p>Você recebera Status 401 se o token estiver vencido ou se estiver com algum caractere diferente</p>
 
