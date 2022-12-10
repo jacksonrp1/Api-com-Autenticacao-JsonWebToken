@@ -83,7 +83,7 @@ Servidor Online na porta 8090
 <p>Caso queira fazer a solicitação direto no navegador, acesse seu URL</p>
 <p>Exemplo: http://localhost:8090 </p>
 
-```javascritp
+```javascript
 const url = 'http://localhost:8090'
 let token = ''
 
